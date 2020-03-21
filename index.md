@@ -2,7 +2,7 @@
 ---
 
 
-![William and Mary](/Pics/W&M.jpg)
+![William and Mary](/Pics/W&M.jpg | width = 100)
 
 
 
