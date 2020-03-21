@@ -2,7 +2,7 @@
 ---
 
 
-![William and Mary](/sulliby/W&M_image.jpg)
+![William and Mary](/sulliby/W&M_image.JPG)
 
 
 
