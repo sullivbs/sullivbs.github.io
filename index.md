@@ -1,7 +1,7 @@
 ---
 ---
 
-![NH](Desktop/Pics/IMG_0366.jpg)
+![NH](/Desktop/Pics/IMG_0366.jpg)
 
 This is content I've developed for my courses: 
 
