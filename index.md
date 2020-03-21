@@ -6,7 +6,7 @@
 
 
 
-![William and Mary](/Users/Desktop/Pics/W&M.jpg)
+![William and Mary](C:/Users/sulliby/Desktop/Pics/W&M_image.jpg)
 
 
 
