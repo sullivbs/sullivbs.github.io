@@ -6,7 +6,7 @@
 
 
 
-![William and Mary](/Pics/W&M_image.jpg)
+![William and Mary](/Pics/wm_720_480.jpg)
 
 
 
