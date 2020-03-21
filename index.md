@@ -11,29 +11,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This is content I've developed for my courses: 
+This is content I've used for my courses: 
 
 - [Time Series Decomposition](/timeseries/index.md)
