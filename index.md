@@ -1,7 +1,7 @@
 ---
 ---
 
-![William & Mary](/Users/sulliby/W&M image.jpg)
+![William & Mary](/sulliby/W&M_image.jpg)
 
 This is content I've developed for my courses: 
 
